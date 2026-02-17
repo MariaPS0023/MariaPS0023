@@ -26,10 +26,13 @@
 
 ---
 
-### 🌊 GitHub Stats
+### ☁️ My Coding Energy
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariaPS0023&show_icons=true&theme=tokyonight" />
+  💻 Debugging at 2am like it's a personality trait <br>
+  🔐 Securing the world one vulnerability at a time <br>
+  ☕ Powered by curiosity & chaos <br>
+  ✨ Currently evolving into my final cybersecurity form
 </p>
 
 ---
